@@ -106,7 +106,7 @@ Il résulte également de ce mode d'organisation que les membres ayant obtenu un
 Il existe également une règle non écrite dans l'administration qui veut qu'un membre ayant exercé des activités d'encadrement ou de responsabilité ne puisse pas exercer d'autres types d'activité. Une évolution vers une activité opérationnelle, de médiation ou d'animation serait interprétée au sein de l'organisation hiérarchique comme une remise en cause des capacités professionnelles du membre.
 
 Par conséquent
+
 On établiera un ratio d'activités en allouant une part du temps d'activité à l'innovation ou à l'enrichissement personnel (formation, lecture, etc.)
 On demandera à chaque agent de formaliser régulièrement les compétences dont il dispose et celles qu'il souhaite acquérir
 On permettra aux agents d'exercer différents types d'activités en fonction des projets et des périodes pour ne pas les cantonner à des postures d'"exécutant" ou d'"encadrant"
-=======
