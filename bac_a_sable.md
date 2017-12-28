@@ -34,38 +34,35 @@ Des primes peuvent s'ajouter au traitement de base et aux indemnités, soit en r
 Les primes ne rentrent pas dans le calcul des droits à la retraite.
 
 
-# 2. VERS DES PATTERNS VIVIFIANTS FONCTION PUBLIQUE 
-
-
-
+# 2. VERS DES PATTERNS VIVIFIANTS POUR LA FONCTION PUBLIQUE 
 
 ### REVENU DE BASE FONCTIONNARIAL 
 
-La fonction publique a innové en attribuant un revenu de base inconditionnel à ses membres. Les administrations ne disposent que de très peu de moyens légaux pour licencier un membre. En dehors des fautes administratives graves (malversations, harcèlement, violence, etc.), l'absence totale de "travail" qui pourrait constituer une faute administrative n'entraîne pas une modification du régime de base perçu par le membre de l'organisation. Celle ou celui-ci peut se voir ralenti dans sa progression dans les échelons de son grade administratif et dans l'amélioration de son traitement de base mais celui-ci ne peut jamais être inférieur à celui défini par son grade administratif.
+La fonction publique a innové en attribuant un revenu de base inconditionnel à ses membres (TRAITEMENT DE BASE). Les administrations ne disposent que de très peu de moyens légaux pour licencier un membre. En dehors des fautes administratives graves (malversations, harcèlement, violence, etc.), l'absence totale de "travail" qui pourrait constituer une faute administrative n'entraîne pas une modification du régime de base perçu par le membre de l'organisation. Celle ou celui-ci peut se voir ralenti dans sa progression dans les échelons de son grade administratif et dans l'amélioration de son traitement de base mais celui-ci ne peut jamais être inférieur à celui défini par son grade administratif.
 
-Cette inconditionnalité de la rémunération autorise potentiellement chaque membre de l'administration à exercer l'activité de son choix durant son temps de travail à condition qu'il exerce de manière régulière son temps de travail. Dans les faits plusieurs dispositifs contraignent le membre de l'administration a réaliser des activités en relation avec sa position dans l'organisation.
+Cette inconditionnalité de la rémunération autorise potentiellement chaque membre de l'administration à exercer l'activité de son choix durant son temps de travail à condition qu'il exerce de manière régulière son temps de travail. Dans les faits plusieurs dispositifs contraignent le membre de l'administration À réaliser des activités en relation avec sa position dans l'organisation.
 
 Par conséquent,
 
-On formalisera la partie de la rémunération inconditionnelle (même si elle n'est pas vraiment inconditionnelle car liée au respect des HORAIRES DE PRÉSENCE) afin de valoriser la part de rémunération conditionnée à la réalisation d'une activité proposée ou choisie.
+On formalisera LE TRAITEMENT DE BASE, la partie de la rémunération inconditionnelle (même si elle n'est pas vraiment inconditionnelle car liée au respect des HORAIRES DE PRÉSENCE) on completera avec des RÉMUNÉRATIONS IMPLICANTES afin de valoriser  la part de rémunération conditionnée à la réalisation d'une activité proposée ou choisie.
 
 
 ## RÉMUNÉRATIONS IMPLICANTES
 
-*a quel problème répond cette solution? le manque d'implication ? dans quels contexte s'applique elle et où s'arrete elle ?*
+*a quel problème répond cette solution? le manque d'implication ? dans quels contexte s'applique elle et où s'arrete elle ? a quels autres patterns est il lié ? lesquels le complète ? lesquels complète il ?*
 
-On cherchera à valoriser l'implication des agents dans leur activité professionnelle par d'autres biais que le traitement de base
+On cherchera à valoriser l'implication des agents dans leur activité professionnelle par d'autres biais que le traitement de base, comme des GRILLES DE RÉMUNÉRATION OUVERTES et des PRIMES JUSTIFIÉES.
 
 
-## GRILLES DE RÉMUNÉRATION OUVERTES 
+## GRILLES DE RÉMUNÉRATION OUVERTES (TRANSPARENTES?)
 
-*a quel problème répond cette solution? dans quels contexte s'applique elle et où s'arrete elle ?*
+*a quel problème répond cette solution? dans quels contexte s'applique elle et où s'arrete elle ? a quels autres patterns est il lié ? lesquels le complète ? lesquels complète il ?*
 
-On publiera en opendata les grilles de rémunération officielle sans y attacher de données nominatives.
+On publiera (*où?*) en opendata les grilles de rémunération officielle sans y attacher de données nominatives.
 
 ## PRIMES JUSTIFIÉES
 
-*a quel problème répond cette solution? le fait que les primes soient attribuées au doigt mouillé ? dans quels contexte s'applique elle et où s'arrete elle ?*
+*a quel problème répond cette solution? le fait que les primes soient attribuées au doigt mouillé ? dans quels contexte s'applique elle et où s'arrete elle ? a quels autres patterns est il lié ? lesquels le complète ? lesquels complète il ?*
 
-On privilégiera le versement de prime de projet ou de primes de services réellement liées aux activités d'un service soumis par exemple à de fortes contraintes de disponibilité, d'offre de service ou d'objectifs mesurables
+On privilégiera le versement de prime de projet ou de primes de services réellement liées aux activités d'un service soumis par exemple à de fortes contraintes de disponibilité, d'offre de service ou d'objectifs mesurables. Ces primes seront explicitement justifiés dans des GRILLES DE RÉMUNÉRATION OUVERTES.
 
