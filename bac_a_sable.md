@@ -58,7 +58,7 @@ On cherchera à valoriser l'implication des agents dans leur activité professio
 
 *a quel problème répond cette solution? dans quels contexte s'applique elle et où s'arrete elle ? a quels autres patterns est il lié ? lesquels le complète ? lesquels complète il ?*
 
-On publiera (*où?*) en opendata les grilles de rémunération officielle sans y attacher de données nominatives.
+On publiera (sur le site institutionnel, dans le hall d'accueil ou sur un portail dédié) en opendata les grilles de rémunération officielle sans y attacher de données nominatives.
 
 ## PRIMES JUSTIFIÉES
 
